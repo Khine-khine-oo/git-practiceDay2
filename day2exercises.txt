@@ -1,2 +1,6 @@
 "Master branch content" 
 "Conflicting change in master" 
+
+"First line in develop" 
+"Second line in develop" 
+"Conflicting change in develop" 
